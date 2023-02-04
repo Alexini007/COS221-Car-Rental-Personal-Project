@@ -1,0 +1,7 @@
+﻿  header.cpp
+  Project_Aleks_Atanasov.cpp
+D:\AUBG\03_COS221 Fundamental Data Structures\Project_Aleks_Atanasov\Project_Aleks_Atanasov.cpp(168,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\AUBG\03_COS221 Fundamental Data Structures\Project_Aleks_Atanasov\Project_Aleks_Atanasov.cpp(140): warning C4715: 'convertFuelType': not all control paths return a value
+D:\AUBG\03_COS221 Fundamental Data Structures\Project_Aleks_Atanasov\Project_Aleks_Atanasov.cpp(150): warning C4715: 'covertVanType': not all control paths return a value
+  Project_Aleks_Atanasov.vcxproj -> D:\AUBG\03_COS221 Fundamental Data Structures\Project_Aleks_Atanasov\Debug\Project_Aleks_Atanasov.exe
